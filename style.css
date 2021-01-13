@@ -1,0 +1,17 @@
+#price {
+    font-family: 'Bebas Neue';
+    font-size: 48px;
+    text-align: center;
+    margin: 40px;
+    color: rgb(1, 72, 143);
+
+}
+
+#intro {
+    text-align: center;
+    margin-top: 20px;
+}
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
