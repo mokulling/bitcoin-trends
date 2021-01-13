@@ -15,3 +15,9 @@
     max-width: 600px;
     margin: 0 auto;
 }
+
+.nav-wrapper {
+    color:rgb(15, 72, 143);
+    opacity: 70%;
+    margin-left: 10px;
+}
